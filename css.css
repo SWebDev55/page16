@@ -7,16 +7,14 @@
     width: 0;
     max-width: 100%;
 }
-/* .blog .main-box .col-span-8 .blog-1 .box .images img,
-.blog .main-box .col-span-4 .link .box .images img,
-.blog .main-box .col-span-5 .images img{
+.blog-1 .main-box .col-span-4 .box .images img,
+.blog-2 .main-box .col-span-3 .box .images img{
     transition: transform 0.3s;
 }
-.blog .main-box .col-span-8 .blog-1 .box .images img:hover,
-.blog .main-box .col-span-4 .link .box .images img:hover,
-.blog .main-box .col-span-5 .images img:hover{
+.blog-1 .main-box .col-span-4 .box .images img:hover,
+.blog-2 .main-box .col-span-3 .box .images img:hover{
     transform: scale(1.1);
-} */
+}
 @media (min-width: 320px) and (max-width: 480px){
     header .main-box{
         width: 100%;
